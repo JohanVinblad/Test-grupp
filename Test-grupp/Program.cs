@@ -10,6 +10,8 @@ namespace Test_grupp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
