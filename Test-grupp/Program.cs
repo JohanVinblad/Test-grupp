@@ -12,6 +12,8 @@ namespace Test_grupp
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+            Console.WriteLine("Hello Gustav!");
+
         }
     }
 }
